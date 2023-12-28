@@ -1,32 +1,32 @@
 {
-  "title": "저희의 결혼을 축하해주세요 💖",
-  "description": "감사한 마음 잊지 않고 오랫동안 간직할게요.",
+  "title": "하루와 병기의 결혼식에 초대합니다💖",
+  "description": "저희의 새로운 출발을 함께 축복해주시면 감사하겠습니다",
   "groom": [
     {
-      "holderName": "예금주명",
-      "bankName": "은행이름",
-      "accountNumber": "계좌번호",
-      "logo": "/assets/svg/kb.svg"
+      "holderName": "정병기(신랑)",
+      "bankName": "신한은행",
+      "accountNumber": "110-436-847781",
+      "logo": "/assets/svg/transfer-icon.svg"
     },
     {
-      "holderName": "예금주명",
-      "bankName": "은행이름",
+      "holderName": "정대영(혼주)",
+      "bankName": "농협",
       "accountNumber": "계좌번호",
-      "logo": "/assets/svg/tossbank.svg"
+      "logo": "/assets/svg/transfer-icon.svg"
     }
   ],
   "bridge": [
     {
-      "holderName": "예금주명",
+      "holderName": "전하루(신부)",
       "bankName": "은행이름",
       "accountNumber": "계좌번호",
-      "logo": "/assets/svg/ibk.svg"
+      "logo": "/assets/svg/transfer-icon.svg"
     },
     {
-      "holderName": "예금주명",
+      "holderName": "전용준(혼주)",
       "bankName": "은행이름",
       "accountNumber": "계좌번호",
-      "logo": "/assets/svg/kakaobank.svg"
+      "logo": "/assets/svg/transfer-icon.svg"
     }
   ]
 }

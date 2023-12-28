@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "name": "하이라이트1",
+      "name": "초대의 말",
       "thumbnailImageSrc": "/assets/img/temp.jpg",
       "contents": [{
         "id": 1,
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "name": "하이라이트2",
+      "name": "오시는 길(약도)",
       "thumbnailImageSrc": "/assets/img/temp.jpg",
       "contents": [{
         "id": 1,
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "하이라이트3",
+      "name": "마음 전하실 곳",
       "thumbnailImageSrc": "/assets/img/temp.jpg",
       "contents": [{
         "id": 1,

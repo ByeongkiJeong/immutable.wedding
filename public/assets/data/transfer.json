@@ -4,12 +4,12 @@
   "transfer": [
     {
       "message": "xx에게 송금하기",
-      "link": "https://toss.me/송금으로결혼축하하기",
+      "link": "https://toss.me/",
       "logo": "/assets/svg/tossbank.svg"
     },
     {
       "message": "xx에게 송금하기",
-      "link": "https://toss.me/축하하는마음보내기",
+      "link": "https://toss.me/",
       "logo": "/assets/svg/tossbank.svg"
     }
   ]
