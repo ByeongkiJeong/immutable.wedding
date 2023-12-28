@@ -1,7 +1,5 @@
 import { api } from '@remotes/supabaseClient';
 
-var tzoffset = (new Date()).getTimezoneOffset() * 60000; //offset in milliseconds
-
 export interface Comment {
   id: number;
   feedId: number;
@@ -26,6 +24,6 @@ export async function addComment(
   return api.from<Comment>('comments').upsert({
     feedId,
     message,
-    createAt: (new Date(Date.now() - tzoffset)).toISOString(),
+    createAt: (new Date(Date.now() - (new Date()).getTimezoneOffset() * 60000)).toISOString(),
   });
 }
