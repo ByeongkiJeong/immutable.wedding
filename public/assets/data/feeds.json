@@ -33,14 +33,14 @@
             "imageSrc": "/assets/img/feed40/02_0679_resize.jpg"
           },
           {
-            "imageSrc": "/assets/img/feed40/02_0679_resize.jpg"
+            "imageSrc": "/assets/img/feed40/05_1488_resize.jpg"
           },
           {
             "imageSrc": "/assets/img/feed40/01_0386_resize.jpg"
           }
         ],
         "description": "편하고 즐거웠던 웨딩촬영💍",
-        "tags": ["25년된친구랑", "<a href='https://www.instagram.com/kusgnoy/'>@kusgnoy</a>"]
+        "tags": ["25년된친구랑", "@kusgnoy"]
     },
     {
         "id": 31,
@@ -72,7 +72,7 @@
       "id": 20,
       "contents": [
         {
-          "imageSrc": "/assets/img/temp.jpg",
+          "imageSrc": "/assets/img/feed20/clubhouse.jpg",
           "action": {
             "type": "link",
             "text": "처음 알게된 그 SNS",
@@ -92,13 +92,10 @@
             "mobileLink": "https://m.place.naver.com/place/21406502/home",
             "pcLink": "https://map.naver.com/p/entry/place/21406502?c=17.00,0,0,0,dh"
           }
-        },
-        {
-          "imageSrc": "/assets/img/temp.jpg"
         }
       ],
       "description": "처음 만나던 순간",
-      "tags": ["클럽하우스", "코시국", "문래역7번출구","이때도전하루늦음"]
+      "tags": ["클럽하우스", "코시국", "문래역7번출구","이때도하루늦음"]
     },
     {
       "id": 11,
@@ -120,13 +117,16 @@
         "id": 10,
         "contents": [
           {
-            "imageSrc": "/assets/img/temp.jpg"
+            "imageSrc": "/assets/img/feed10/slide1.png"
           },
           {
-            "imageSrc": "/assets/img/temp.jpg"
+            "imageSrc": "/assets/img/feed10/slide2.png"
           },
           {
-            "imageSrc": "/assets/img/temp.jpg"
+            "imageSrc": "/assets/img/feed10/slide3.png"
+          },
+          {
+            "imageSrc": "/assets/img/feed10/slide4.png"
           }
         ],
         "description": "어쩌다 반하게 되었나?(병기편)",
