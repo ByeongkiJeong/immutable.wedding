@@ -12,26 +12,11 @@
     },
     {
       "id": 2,
-      "name": "오시는 길",
+      "name": "오시는 길\n(요약)",
       "thumbnailImageSrc": "/assets/img/highlights/thumbnail2.png",
       "contents": [{
         "id": 1,
         "imageSrc": "/assets/img/highlights/hlight2/content1.png",
-        "theme": "dark"
-      },
-      {
-        "id": 2,
-        "imageSrc": "/assets/img/highlights/hlight2/content2.png",
-        "theme": "dark"
-      },
-      {
-        "id": 3,
-        "imageSrc": "/assets/img/highlights/hlight2/content3.png",
-        "theme": "dark"
-      },
-      {
-        "id": 4,
-        "imageSrc": "/assets/img/highlights/hlight2/content4.png",
         "theme": "dark"
       }]
     },

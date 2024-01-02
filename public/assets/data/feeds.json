@@ -11,6 +11,33 @@
       "createdAt": "2024-04-20"
     },
     {
+      "id": 20,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/feed20/slide1.png",
+          "action": {
+            "type": "link",
+            "text": "네이버 지도 바로가기(클릭)",
+            "color": "#3B6045",
+            "href": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "mobileLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "pcLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh"
+          }
+        },
+        {
+          "imageSrc": "/assets/img/feed20/slide2.png"
+        },
+        {
+          "imageSrc": "/assets/img/feed20/slide3.png"
+        },
+        {
+          "imageSrc": "/assets/img/feed20/slide4.png"
+        }
+      ],
+      "description": "오시는 길을 안내드립니다.",
+      "tags": ["로얄파크웨딩", "전쟁기념관", "삼각지역11번출구"]
+    },
+    {
         "id": 41,
         "contents": [
           {
@@ -73,35 +100,6 @@
         ],
         "description": "우리에게 의미깊은 북촌에서",
         "tags": ["정독도서관", "비오는날"]
-    },
-    {
-      "id": 20,
-      "contents": [
-        {
-          "imageSrc": "/assets/img/feed20/clubhouse.jpg",
-          "action": {
-            "type": "link",
-            "text": "처음 알게된 그 SNS",
-            "color": "#3B6045",
-            "href": "https://www.clubhouse.com",
-            "mobileLink": "https://www.clubhouse.com",
-            "pcLink": "https://www.clubhouse.com"
-          }
-        },
-        {
-          "imageSrc": "/assets/img/feed20/SCR-20231231-5x.png",
-          "action": {
-            "type": "link",
-            "text": "처음 만난 그 장소",
-            "color": "#3B6045",
-            "href": "https://map.naver.com/p/entry/place/21406502?c=17.00,0,0,0,dh",
-            "mobileLink": "https://m.place.naver.com/place/21406502/home",
-            "pcLink": "https://map.naver.com/p/entry/place/21406502?c=17.00,0,0,0,dh"
-          }
-        }
-      ],
-      "description": "처음 만나던 순간",
-      "tags": ["클럽하우스", "코시국", "문래역7번출구"]
     },
     {
         "id": 11,
