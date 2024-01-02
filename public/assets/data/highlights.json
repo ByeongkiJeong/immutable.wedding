@@ -18,20 +18,14 @@
         "id": 1,
         "imageSrc": "/assets/img/highlights/royalpark.jpg",
         "theme": "dark"
-      }]
-    },
-    {
-      "id": 3,
-      "name": "마음\n전하실 곳",
-      "thumbnailImageSrc": "/assets/img/temp.jpg",
-      "contents": [{
-        "id": 1,
+      },{
+        "id": 2,
         "imageSrc": "/assets/img/temp.jpg",
         "theme": "dark"
       }]
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "신혼여행\n어디로?",
       "thumbnailImageSrc": "/assets/img/highlights/honeymoon.jpeg",
       "contents": [{
@@ -41,7 +35,7 @@
       }]
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "프로포즈\n어디서?",
       "thumbnailImageSrc": "/assets/img/highlights/bangkok.jpg",
       "contents": [{
