@@ -2,45 +2,61 @@
   "data": [
     {
       "id": 1,
-      "name": "초대의 말",
-      "thumbnailImageSrc": "/assets/img/temp.jpg",
+      "name": "시간과 장소",
+      "thumbnailImageSrc": "/assets/img/highlights/thumbnail1.png",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/temp.jpg",
+        "imageSrc": "/assets/img/highlights/hlight1/content1.png",
         "theme": "dark"
       }]
     },
     {
       "id": 2,
-      "name": "오시는 길\n(약도)",
-      "thumbnailImageSrc": "/assets/img/highlights/royalpark.jpg",
+      "name": "오시는 길",
+      "thumbnailImageSrc": "/assets/img/highlights/thumbnail2.png",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/highlights/royalpark.jpg",
+        "imageSrc": "/assets/img/highlights/hlight2/content1.png",
         "theme": "dark"
-      },{
+      },
+      {
         "id": 2,
-        "imageSrc": "/assets/img/temp.jpg",
+        "imageSrc": "/assets/img/highlights/hlight2/content2.png",
+        "theme": "dark"
+      },
+      {
+        "id": 3,
+        "imageSrc": "/assets/img/highlights/hlight2/content3.png",
+        "theme": "dark"
+      },
+      {
+        "id": 4,
+        "imageSrc": "/assets/img/highlights/hlight2/content4.png",
         "theme": "dark"
       }]
     },
     {
       "id": 3,
-      "name": "신혼여행\n어디로?",
-      "thumbnailImageSrc": "/assets/img/highlights/honeymoon.jpeg",
+      "name": "신혼여행",
+      "thumbnailImageSrc": "/assets/img/highlights/thumbnail3.png",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/temp.jpg",
+        "imageSrc": "/assets/img/highlights/hlight3/content1.png",
         "theme": "dark"
       }]
     },
     {
       "id": 4,
-      "name": "프로포즈\n어디서?",
-      "thumbnailImageSrc": "/assets/img/highlights/bangkok.jpg",
+      "name": "프로포즈\n이야기",
+      "thumbnailImageSrc": "/assets/img/highlights/thumbnail4.png",
       "contents": [{
         "id": 1,
-        "imageSrc": "/assets/img/highlights/bangkok.jpg",
+        "imageSrc": "/assets/img/highlights/hlight4/content1.png",
+        "theme": "dark"
+      },
+      {
+        "id": 2,
+        "imageSrc": "/assets/img/highlights/hlight4/content2.png",
         "theme": "dark"
       }]
     }

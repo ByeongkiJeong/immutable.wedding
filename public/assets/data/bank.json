@@ -6,27 +6,15 @@
       "holderName": "정병기(신랑)",
       "bankName": "신한은행",
       "accountNumber": "110-436-847781",
-      "logo": "/assets/svg/transfer-icon.svg"
-    },
-    {
-      "holderName": "정대영(혼주)",
-      "bankName": "농협",
-      "accountNumber": "계좌번호",
-      "logo": "/assets/svg/transfer-icon.svg"
+      "logo": "/assets/svg/shinhan.svg"
     }
   ],
   "bridge": [
     {
       "holderName": "전하루(신부)",
-      "bankName": "은행이름",
-      "accountNumber": "계좌번호",
-      "logo": "/assets/svg/transfer-icon.svg"
-    },
-    {
-      "holderName": "전용준(혼주)",
-      "bankName": "은행이름",
-      "accountNumber": "계좌번호",
-      "logo": "/assets/svg/transfer-icon.svg"
+      "bankName": "국민은행",
+      "accountNumber": "053602-04-372691",
+      "logo": "/assets/svg/kookmin.svg"
     }
   ]
 }
