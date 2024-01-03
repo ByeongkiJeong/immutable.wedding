@@ -34,7 +34,7 @@
           "imageSrc": "/assets/img/feed20/slide4.png"
         }
       ],
-      "description": "오시는 길을 안내드립니다.",
+      "description": "오시는 길을 안내드립니다",
       "tags": ["로얄파크웨딩", "전쟁기념관", "삼각지역11번출구"]
     },
     {
@@ -47,7 +47,13 @@
             "imageSrc": "/assets/img/feed41/03207_copy3.jpg"
           },
           {
-            "imageSrc": "/assets/img/feed41/02453_copy3.jpg"
+            "imageSrc": "/assets/img/feed41/IMG_5025.JPG"
+          },
+          {
+            "imageSrc": "/assets/img/feed41/IMG_5020.JPG"
+          },
+          {
+            "imageSrc": "/assets/img/feed41/IMG_5019.JPG"
           }
         ],
         "description": "병기 칭찬받음🙌",
@@ -66,7 +72,7 @@
             "imageSrc": "/assets/img/feed40/01_0386_resize.jpg"
           }
         ],
-        "description": "편하고 즐거웠던 웨딩촬영💍",
+        "description": "이것은 웨딩 화보 입니다 💍",
         "tags": ["사진왕이용석", "병기친구26년차", "@kusgnoy"]
     },
     {
@@ -98,7 +104,7 @@
             "imageSrc": "/assets/img/feed30/IMG_4991.JPG"
           }
         ],
-        "description": "우리에게 의미깊은 북촌에서",
+        "description": "북촌에서",
         "tags": ["정독도서관", "비오는날"]
     },
     {
@@ -149,7 +155,7 @@
           "imageSrc": "/assets/img/feed9/content1.png",
           "action": {
             "type": "bottom-sheet_account",
-            "text": "마음 전하실 곳",
+            "text": "마음 전하실 곳(클릭👇)",
             "color": "#6B31E7"
           }
         }

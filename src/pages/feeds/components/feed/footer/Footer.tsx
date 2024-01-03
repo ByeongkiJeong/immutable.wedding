@@ -43,7 +43,7 @@ export function Footer() {
             size="xxl"
             css={{ mt: '$20', color: '$warmGray700' }}
           >
-            끝까지 읽어주셔서 감사합니다
+            축하해주셔서 감사합니다!
           </Text>
         </motion.div>
         <motion.div
