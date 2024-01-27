@@ -7,7 +7,7 @@
           "imageSrc": "/assets/img/feed99/05_1594_crop.jpg"
         }
       ],
-      "description": "\n처음 만난 그 날, 저희 결혼합니다.\n새로운 출발을 함께 축복해 주세요💕",
+      "description": "열두 번의 계절을 지나, 처음 만난 그날\n꽃잎이 흩날리는 따뜻한 봄에\n저희의 새로운 출발을\n함께 축복해 주세요💕",
       "createdAt": "2024-04-20"
     },
     {
@@ -17,7 +17,7 @@
           "imageSrc": "/assets/img/feed20/slide1.png",
           "action": {
             "type": "link",
-            "text": "네이버 지도 바로가기(클릭)",
+            "text": "네이버 지도 바로가기 (클릭👇)",
             "color": "#3B6045",
             "href": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
             "mobileLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
@@ -25,16 +25,40 @@
           }
         },
         {
-          "imageSrc": "/assets/img/feed20/slide2.png"
+          "imageSrc": "/assets/img/feed20/slide2.png",
+          "action": {
+            "type": "link",
+            "text": "네이버 지도 바로가기 (클릭👇)",
+            "color": "#3B6045",
+            "href": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "mobileLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "pcLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh"
+          }
         },
         {
-          "imageSrc": "/assets/img/feed20/slide3.png"
+          "imageSrc": "/assets/img/feed20/slide3.png",
+          "action": {
+            "type": "link",
+            "text": "네이버 지도 바로가기 (클릭👇)",
+            "color": "#3B6045",
+            "href": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "mobileLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "pcLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh"
+          }
         },
         {
-          "imageSrc": "/assets/img/feed20/slide4.png"
+          "imageSrc": "/assets/img/feed20/slide4.png",
+          "action": {
+            "type": "link",
+            "text": "네이버 지도 바로가기 (클릭👇)",
+            "color": "#3B6045",
+            "href": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "mobileLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh",
+            "pcLink": "https://map.naver.com/p/entry/place/1915861607?c=15.00,0,0,0,dh"
+          }
         }
       ],
-      "description": "오시는 길을 안내드립니다",
+      "description": "병기와 하루의 결혼식, 오시는 길을 안내드립니다🚶🏻🐩🐈🐕",
       "tags": ["로얄파크웨딩", "전쟁기념관", "삼각지역11번출구"]
     },
     {
@@ -56,7 +80,7 @@
             "imageSrc": "/assets/img/feed41/IMG_5019.JPG"
           }
         ],
-        "description": "병기 칭찬받음🙌",
+        "description": "행복하게 살겠습니다 👩🏻‍❤️‍👨🏻",
         "tags": ["웨딩촬영", "스튜디오"]
     },
     {
@@ -72,7 +96,7 @@
             "imageSrc": "/assets/img/feed40/01_0386_resize.jpg"
           }
         ],
-        "description": "이것은 웨딩 화보 입니다 💍",
+        "description": "용석이가 술먹으면서 60년 뒤에 봐도 예쁜 사진 찍어주겠다고 했었다 💍",
         "tags": ["사진왕이용석", "병기친구26년차", "@kusgnoy"]
     },
     {
@@ -88,24 +112,8 @@
             "imageSrc": "/assets/img/feed31/JKM08478-2.jpg"
           }
         ],
-        "description": "노을공원에서 왈츠 한 곡",
+        "description": "노을공원에서 왈츠 한 곡 🎶",
         "tags": ["첫웨딩촬영", "필수웨딩스팟", "추천해요"]
-    },
-    {
-        "id": 30,
-        "contents": [
-          {
-            "imageSrc": "/assets/img/feed30/IMG_1755.jpg"
-          },
-          {
-            "imageSrc": "/assets/img/feed30/IMG_4989.JPG"
-          },
-          {
-            "imageSrc": "/assets/img/feed30/IMG_4991.JPG"
-          }
-        ],
-        "description": "북촌에서",
-        "tags": ["정독도서관", "비오는날"]
     },
     {
         "id": 11,
@@ -155,7 +163,7 @@
           "imageSrc": "/assets/img/feed9/content1.png",
           "action": {
             "type": "bottom-sheet_account",
-            "text": "마음 전하실 곳(클릭👇)",
+            "text": "마음 전하실 곳 (클릭👇)",
             "color": "#6B31E7"
           }
         }

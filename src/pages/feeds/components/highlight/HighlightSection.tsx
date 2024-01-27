@@ -29,7 +29,7 @@ export function HighlightSection({ highlights }: Props) {
     <Flex
       elementType="ul"
       css={{
-        spaceX: '$16',
+        spaceX: '$25',
         p: '$20',
         mb: '$20',
         overflowX: 'scroll',
