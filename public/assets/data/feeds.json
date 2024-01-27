@@ -7,7 +7,7 @@
           "imageSrc": "/assets/img/feed99/05_1594_crop.PNG"
         }
       ],
-      "description": "열두 번의 계절을 지나, 처음 만난 그날\n꽃잎이 흩날리는 따뜻한 봄에\n저희의 새로운 출발을\n함께 축복해 주세요💕",
+      "description": "정병기💙전하루\n\n열두 번의 계절을 지나, 처음 만난 그날\n꽃잎이 흩날리는 따뜻한 봄에\n저희의 새로운 출발을\n함께 축복해 주세요💕",
       "createdAt": "2024-04-20"
     },
     {
@@ -81,11 +81,14 @@
           }
         ],
         "description": "행복하게 살겠습니다 👩🏻‍❤️‍👨🏻",
-        "tags": ["웨딩촬영", "스튜디오"]
+        "tags": []
     },
     {
         "id": 40,
         "contents": [
+          {
+            "imageSrc": "/assets/img/feed40/IMG_6231.jpg"
+          },
           {
             "imageSrc": "/assets/img/feed40/02_0679_resize.jpg"
           },
@@ -96,7 +99,7 @@
             "imageSrc": "/assets/img/feed40/01_0386_resize.jpg"
           }
         ],
-        "description": "용석이가 술먹으면서 60년 뒤에 봐도 예쁜 사진 찍어주겠다고 했었다 💍",
+        "description": "용석이가 60년 뒤에 봐도 예쁜 사진 찍어주겠다고 했었다 💍",
         "tags": ["사진왕이용석", "병기친구26년차", "@kusgnoy"]
     },
     {
@@ -113,7 +116,7 @@
           }
         ],
         "description": "노을공원에서 왈츠 한 곡 🎶",
-        "tags": ["첫웨딩촬영", "필수웨딩스팟", "추천해요"]
+        "tags": []
     },
     {
         "id": 11,
