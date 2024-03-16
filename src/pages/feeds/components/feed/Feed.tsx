@@ -88,7 +88,6 @@ function FeedItemContainer({
   return (
     <Wrapper key={id}>
       <Header />
-      {handleCommentIconClick}
       <div tabIndex={0} role="button" onClick={onDoubleClick}>
         {children}
       </div>
