@@ -104,16 +104,16 @@ function FeedItemContainer({
       </div>
       <SSRSuspense fallback={null}>
         <CommentWrapper>
-          <CommentForm id={id} onSubmit={toDisplayMode} />
-          <Comments
-            id={id}
-            inputModeButton={
-              <SmallGrayButton onClick={handleCommentIconClick}>
-                댓글 남기기
-              </SmallGrayButton>
-            }
-          />
-        </CommentWrapper>
+            <CommentForm id={id} onSubmit={toDisplayMode} />
+            <Comments
+              id={id}
+              inputModeButton={
+                <SmallGrayButton onClick={handleCommentIconClick} onSubmit={toDisplayMode}>
+                  댓글 남기기
+                </SmallGrayButton>
+              }
+            />
+         </CommentWrapper>
       </SSRSuspense>
     </Wrapper>
   );
