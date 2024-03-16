@@ -73,10 +73,10 @@ function FeedItemContainer({
   const likeIconRef = useRef<HTMLButtonElement | null>(null);
   const descriptionRef = useRef<HTMLDivElement | null>(null);
   const { data: account } = useAccount();
-  const [isInputMode, toInputMode, toDisplayMode] = useBooleanState(true);
+  const [isInputMode, toInputMode, toDisplayMode] = useBooleanState(false);
   const handleCommentIconClick = useCallback(() => {
     if (descriptionRef.current != null) {
-      scrollIntoView(descriptionRef.current, { offset: 90 });
+      scrollIntoView(descriptionRef.current, { offset: 200 });
     }
     toInputMode();
   }, [toInputMode]);
