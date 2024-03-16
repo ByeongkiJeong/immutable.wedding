@@ -76,7 +76,7 @@ function FeedItemContainer({
   const [isInputMode, toInputMode, toDisplayMode] = useBooleanState(false);
   const handleCommentIconClick = useCallback(() => {
     if (descriptionRef.current != null) {
-      scrollIntoView(descriptionRef.current, { offset: 200 });
+      scrollIntoView(descriptionRef.current, { offset: 90 });
     }
     toInputMode();
   }, [toInputMode]);
@@ -105,7 +105,8 @@ function FeedItemContainer({
       </div>
       <SSRSuspense fallback={null}>
         <CommentWrapper>
-          {isInputMode ? (
+          {true ? (
+          //{isInputMode ? (
             <CommentForm id={id} onSubmit={toDisplayMode} />
           ) : (
             <Comments
