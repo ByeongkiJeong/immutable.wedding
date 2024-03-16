@@ -39,7 +39,7 @@ export function CommentForm({ id, onSubmit }: Props) {
 
   return (
     <Form
-      css={{ spaceX: '$27' }}
+      css={{ spaceX: '$8' }}
       onSubmit={handleSubmit(async ({ message }) => {
         await addComment(id, { message });
         toastSuccessMessage();
