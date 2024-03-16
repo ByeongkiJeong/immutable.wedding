@@ -74,7 +74,7 @@ function FeedItemContainer({
   const descriptionRef = useRef<HTMLDivElement | null>(null);
   const { data: account } = useAccount();
   //const [isInputMode, toInputMode, toDisplayMode] = useBooleanState(false);
-  const isInputMode = useBooleanState(true);
+  const [isInputMode] = useBooleanState(true);
   const [toInputMode, toDisplayMode] = useBooleanState(false);
   const handleCommentIconClick = useCallback(() => {
     if (descriptionRef.current != null) {
