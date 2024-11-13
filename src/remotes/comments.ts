@@ -7,12 +7,25 @@ export interface Comment {
   createAt: string;
 }
 
-export async function getComments(feedId: number) {
+/*export async function getComments(feedId: number) {
   const { data } = await api
     .from<Comment>('comments')
     .select('id, feedId, message, createAt')
     .eq('feedId', feedId)
     .order('id', { ascending: false });
+
+  return data;
+}*/
+
+export async function getComments(feedId: number) {
+  const { data } = await api
+    .from<Comment>('comments')
+    .select('id, feedId, message, createAt')
+    .eq('feedId', feedId)
+    .order('id', { ascending: false })
+    .catch(() => {
+      return { data: [] }; // api 응답이 없을 경우 빈 데이터 반환
+    });
 
   return data;
 }
