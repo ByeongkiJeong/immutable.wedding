@@ -24,7 +24,7 @@ export async function getComments(feedId: number) {
     .eq('feedId', feedId)
     .order('id', { ascending: false })
     .catch(() => {
-      return { data: [{ id: null, feedId: feedId, message: '', createAt: null }] }; // 빈 형태의 데이터 반환
+      return { data: [{ id: null, feedId: feedId, message: '', createAt: null } as Comment] }; // 빈 형태의 Comment 타입 데이터 반환
     });
 
   return data;
