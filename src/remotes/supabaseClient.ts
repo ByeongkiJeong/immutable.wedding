@@ -9,4 +9,4 @@ if (supabaseUrl == null || supabaseAnonKey == null) {
   );
 }
 
-export const api = createClient(supabaseUrl, supabaseAnonKey);
+//export const api = createClient(supabaseUrl, supabaseAnonKey);
