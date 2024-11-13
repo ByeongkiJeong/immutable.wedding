@@ -41,7 +41,7 @@ export function Comments({ id, inputModeButton }: Props) {
   }
 
   return (
-  /*  <>
+    <>
       <CommentList
         initial="hidden"
         animate={folded ? 'hidden' : 'visible'}
@@ -69,40 +69,7 @@ export function Comments({ id, inputModeButton }: Props) {
         <SmallGrayButton onClick={fold}>접기</SmallGrayButton>
       )}
     </>
-  ); */
-  <>
-    <CommentList
-      initial="hidden"
-      animate={folded ? 'hidden' : 'visible'}
-      variants={variants}
-    >
-      {comments.length > 0 ? (
-        comments.map((comment: Comment) => { // comment의 타입을 명시적으로 지정합니다.
-          return (
-            <CommentRow
-              key={`${comment.id}--${comment.feedId}`}
-              createAt={comment.createAt}
-              onClick={toggle}
-            >
-              {comment.message}
-            </CommentRow>
-          );
-        })
-      ) : (
-        <Text>댓글이 없습니다.</Text>
-      )}
-    </CommentList>
-    {hasOnlyOne ? (
-      inputModeButton
-    ) : folded ? (
-      <SmallGrayButton onClick={unfold}>
-        {comments.length - 1}개 더보기
-      </SmallGrayButton>
-    ) : (
-      <SmallGrayButton onClick={fold}>접기</SmallGrayButton>
-    )}
-  </>
-);
+  );
 }
 
 const CommentList = styled(motion.ol, {
