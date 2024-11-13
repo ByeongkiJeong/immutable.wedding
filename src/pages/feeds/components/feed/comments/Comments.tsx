@@ -47,7 +47,7 @@ export function Comments({ id, inputModeButton }: Props) {
         animate={folded ? 'hidden' : 'visible'}
         variants={variants}
       >
-        {comments.map(comment => {
+        {/* {comments.map(comment => {
           return (
             <CommentRow
               key={`${comment.id}--${comment.feedId}`}
@@ -57,7 +57,7 @@ export function Comments({ id, inputModeButton }: Props) {
               {comment.message}
             </CommentRow>
           );
-        })}
+        })} */}
       </CommentList>
       {hasOnlyOne ? (
         inputModeButton
