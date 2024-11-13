@@ -24,7 +24,7 @@ export async function getComments(feedId: number) {
     .eq('feedId', feedId)
     .order('id', { ascending: false })
     .catch(() => {
-      return { data: [] }; // api 응답이 없을 경우 빈 데이터 반환
+      return { data: [{ id: null, feedId: feedId, message: '', createAt: null }] }; // 빈 형태의 데이터 반환
     });
 
   return data;
