@@ -77,7 +77,7 @@ export function Comments({ id, inputModeButton }: Props) {
       variants={variants}
     >
       {comments.length > 0 ? (
-        comments.map(comment => {
+        comments.map((comment: Comment) => { // comment의 타입을 명시적으로 지정합니다.
           return (
             <CommentRow
               key={`${comment.id}--${comment.feedId}`}
